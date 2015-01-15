@@ -1,8 +1,8 @@
 
 public class Hero {
 	//Private Properties
-    private int strength;
-    private int speed;
+    protected strength;
+    protected int speed;
     private int health;
     
     //Public Properties
